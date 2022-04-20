@@ -1,0 +1,1 @@
+{"version":3,"sources":["message_log_3/db.cljs"],"mappings":";AAEA,8BAAA,2CAAA,qDAAA,9HAAKA","names":["message-log-3.db/default-db"],"sourcesContent":["(ns message-log-3.db)\n\n(def default-db\n  {:name \"re-frame\"})\n"]}

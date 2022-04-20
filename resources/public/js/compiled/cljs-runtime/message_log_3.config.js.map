@@ -1,0 +1,1 @@
+{"version":3,"sources":["message_log_3/config.cljs"],"mappings":";AAEA,AAAKA,oCACMC","names":["message-log-3.config/debug?","js/goog.DEBUG"],"sourcesContent":["(ns message-log-3.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"]}
